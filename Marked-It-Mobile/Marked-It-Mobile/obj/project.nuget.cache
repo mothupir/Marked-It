@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "QZF+jMNH89Y6/1R2lxz8QiaRw6l+lDpTxEtFbzW9OLmOPe7EHuD/OpL3IAG21Il2WTiLh6b2Xo1onMpfqPNfRg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\bbdnet2576\\Desktop\\Projects\\Marked-It\\Marked-It-Mobile\\Marked-It-Mobile\\Marked-It-Mobile.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bbdnet2576\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\bbdnet2576\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\bbdnet2576\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\bbdnet2576\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\bbdnet2576\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}
